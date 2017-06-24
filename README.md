@@ -7,8 +7,8 @@ before install program you need install dependencies
 
 Debian base:
 
-$ sudo apt install tcpdump
-$ sudo apt install inotify-tools
+	$ sudo apt install tcpdump
+	$ sudo apt install inotify-tools
 
 ## Installation
 
