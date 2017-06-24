@@ -14,7 +14,7 @@ Debian base:
 
 	$ cd
 	$ cd /tmp
-	$ $ wget -O OpenVPN-user-logging.tar.gz https://github.com/grayneo/OpenVPN-user-logging/archive/master.tar.gz
+	$ wget -O OpenVPN-user-logging.tar.gz https://github.com/grayneo/OpenVPN-user-logging/archive/master.tar.gz
 	$ tar  -xf OpenVPN-user-logging.tar.gz
 	$ cd  OpenVPN-user-logging-master
 	$ sh install.sh
