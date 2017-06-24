@@ -1,14 +1,14 @@
 # OpenVPN-user-logging
 this script help you to have log file from user activity after connect to OpenVPN server <br/>
 
-#before Installation
+## before Installation
 
 before install program you need install dependencies
 
 Debian base:
 
-$ sudoapt install tcpdump
-$ sudo apt-get install inotify-tools
+$ sudo apt install tcpdump
+$ sudo apt install inotify-tools
 
 ## Installation
 
