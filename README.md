@@ -1,6 +1,8 @@
 # OpenVPN-user-logging
 this script help you to have log file from user activity after connect to OpenVPN server <br/>
 
+![screenshot](https://user-images.githubusercontent.com/17459072/27508080-588244ce-58f3-11e7-9a90-84f00523878d.png)
+
 ## before Installation
 
 before install program you need install dependencies
