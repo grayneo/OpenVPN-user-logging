@@ -19,7 +19,7 @@ $ sudo apt-get install inotify-tools
 	$ cd  OpenVPN-user-logging-master
 	$ sh install.sh
 
-##uninstall
+## uninstall
 
 
 	$ sh uninstall.sh
